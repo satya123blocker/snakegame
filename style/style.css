@@ -1,5 +1,5 @@
 body {
-  background: #e6ecf0;
+  background: #0989df;
   padding: 0px;
   margin: 0px;
   position: relative;
@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: rgb(174, 6, 207);
   position: absolute;
   top: 200px;
   left: 60px;
@@ -37,7 +37,7 @@ body {
   padding-left: 300px;
   box-sizing: border-box;
   display: flex;
-  background-color: #fff;
+  background-color: rgb(6, 204, 187);
   flex-direction: row;
   box-shadow: 0 1px 3px 0 rgba(223, 7, 205, 0.966);
 }
@@ -76,7 +76,7 @@ body {
   width: 70%;
   height: 250px;
   background-color: rgb(212, 209, 26);
-  border: 1px solid #e6ecf0;
+  border: 1px solid #b90707;
   border-radius: 7px;
   padding: 16px;
   box-sizing: border-box;
