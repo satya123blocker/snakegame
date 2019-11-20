@@ -4,12 +4,12 @@ body {
   margin: 0px;
   position: relative;
   font-family: Helvetica;
-}a
+}
 .background_image {
-  width: 1em;
+  width: 100%;
   height: 320px;
   background-color: #9e9e9e;
-  background-image: url("../images/Rinky.jpeg");
+  background-image: url("../images/download.jpeg");
   background-size: cover;
   background-position: 0px -90px;
 }
