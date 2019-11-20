@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(174, 6, 207);
+  background-color: rgb(132, 131, 133);
   position: absolute;
   top: 200px;
   left: 60px;
@@ -37,9 +37,9 @@ body {
   padding-left: 300px;
   box-sizing: border-box;
   display: flex;
-  background-color: rgb(6, 204, 187);
+  background-color: rgb(210, 211, 211);
   flex-direction: row;
-  box-shadow: 0 1px 3px 0 rgba(223, 7, 205, 0.966);
+  box-shadow: 0 1px 3px 0 rgba(224, 220, 224, 0.966);
 }
 .nav_link_container {
   padding: 9px;
@@ -57,7 +57,7 @@ body {
   border-radius: 25px;
   font-size: 15px;
   font-weight: 700;
-  color: #d610a5;
+  color: #aa98a6;
 }
 .home_body_container {
   width: 100%;
@@ -75,8 +75,8 @@ body {
 .right_pane {
   width: 70%;
   height: 250px;
-  background-color: rgb(29, 26, 212);
-  border: 1px solid #b90707;
+  background-color: rgb(182, 182, 197);
+  border: 1px solid #dfd6d6;
   border-radius: 7px;
   padding: 16px;
   box-sizing: border-box;
@@ -93,7 +93,7 @@ body {
 }
 .sub_text {
   font-size: 14px;
-  color: #657786;
+  color: #d8dfe4;
   font-weight: lighter;
   letter-spacing: 0.1px;
 }
