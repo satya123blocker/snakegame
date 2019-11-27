@@ -17,7 +17,7 @@ body {
   width: 210px;
   height: 210px;
   border-radius: 105px;
-  display: flex;
+  display: border-box;
   justify-content: center;
   align-items: center;
   background-color: rgba(18, 6, 179, 0.733);
@@ -27,7 +27,7 @@ body {
 }
 #avatar {
   width: 200px;
-  height: 100px;
+  height: 200px;
   border-radius: 100px;
   object-fit: cover;
 }
