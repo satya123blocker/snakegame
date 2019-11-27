@@ -6,7 +6,7 @@ body {
   font-family: Helvetica;
 }
 .background_image {
-  width: 50%;
+  width: 100%;
   height: 320px;
   background-color: #070505;
   background-image: url("../images/download.jpeg");
@@ -17,7 +17,7 @@ body {
   width: 210px;
   height: 210px;
   border-radius: 105px;
-  display: flex;
+  display: inline-flexbox;
   justify-content: center;
   align-items: center;
   background-color: rgba(18, 6, 179, 0.733);
