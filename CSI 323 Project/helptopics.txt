@@ -1,0 +1,7 @@
+How To Use Cricket Trivia 3.0
+
+Cricket trivia 3.0 is a simple java client/server game that provides a question and answer interface in a multiple choice format. Questions are based mainly on International cricket statistics. The mechanism behind the game is very simple. The client which displays the question, is connected to the server. It sends a request to the server(the question), which in turns sends a response to client after verifying that the answer was correct. Multiple clients are also allowed !.
+
+The cricket trivia welcome screen has two options- beginners and advance. A total of 20 questions for beginners and 20 questions for advance players. The 40 questions comprises of both test and one day international cricket. It is advisable for new players to go through the beginners stage before attempting the advance questions. However those players who are familiar with their cricket statistics are exceptions.
+
+At the end of the trivia the player has the option to start a new game . The player can exit the game at any time. It also has a simple menu bar that allows the player to , exit the game or as was mentioned before, and also provdies adequate help for new users of the game.
