@@ -1,4 +1,4 @@
-body {
+ body {
   background: #e6ecf0;
   padding: 0px;
   margin: 0px;
@@ -146,7 +146,7 @@ body {
 
 #game {
   border: 5px solid orange;
-  background-color: darkslategray;
+  background-color: rgb(159, 247, 88);
   margin: 50px;
   border-radius: 15px;
 }
